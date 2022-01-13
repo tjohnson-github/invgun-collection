@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invgun-collection", "invgun-collection\invgun-collection.csproj", "{9D51FB0D-9880-4AA6-B941-2397E418E603}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JFGCDatabase", "..\JFGCDatabase\JFGCDatabase.csproj", "{E8FD9411-C40B-4EE3-A5AF-07684FF8319F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InvGunSetup", "InvGunSetup\InvGunSetup.vdproj", "{696694BD-FE61-4E30-A7B6-A2437A273D67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D51FB0D-9880-4AA6-B941-2397E418E603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D51FB0D-9880-4AA6-B941-2397E418E603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D51FB0D-9880-4AA6-B941-2397E418E603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D51FB0D-9880-4AA6-B941-2397E418E603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8FD9411-C40B-4EE3-A5AF-07684FF8319F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8FD9411-C40B-4EE3-A5AF-07684FF8319F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8FD9411-C40B-4EE3-A5AF-07684FF8319F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8FD9411-C40B-4EE3-A5AF-07684FF8319F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{696694BD-FE61-4E30-A7B6-A2437A273D67}.Debug|Any CPU.ActiveCfg = Debug
+		{696694BD-FE61-4E30-A7B6-A2437A273D67}.Debug|Any CPU.Build.0 = Debug
+		{696694BD-FE61-4E30-A7B6-A2437A273D67}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CAA0B85-BB63-452E-856B-434488D33848}
+	EndGlobalSection
+EndGlobal
